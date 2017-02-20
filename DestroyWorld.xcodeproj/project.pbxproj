@@ -99,6 +99,7 @@
 				TargetAttributes = {
 					3CD7A62F1E5A6B1800FB2946 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = E999ULWVQ9;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -264,6 +265,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = E999ULWVQ9;
 				INFOPLIST_FILE = DestroyWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = tiger.DestroyWorld;
@@ -276,6 +278,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = E999ULWVQ9;
 				INFOPLIST_FILE = DestroyWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = tiger.DestroyWorld;
